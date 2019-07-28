@@ -1,0 +1,14 @@
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache

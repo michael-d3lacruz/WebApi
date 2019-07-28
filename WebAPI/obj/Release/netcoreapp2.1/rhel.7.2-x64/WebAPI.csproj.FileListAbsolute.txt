@@ -1,0 +1,15 @@
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.deps.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.runtimeconfig.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.runtimeconfig.dev.json
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.dll
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.pdb
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.csprojAssemblyReference.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.csproj.CoreCompileInputs.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.RazorAssemblyInfo.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.RazorAssemblyInfo.cs
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.AssemblyInfoInputs.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.AssemblyInfo.cs
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.RazorTargetAssemblyInfo.cache
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.dll
+X:\Development\DotNet Practice\AWS\WebAPI\WebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\WebAPI.pdb
